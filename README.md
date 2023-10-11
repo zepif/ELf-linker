@@ -15,7 +15,6 @@ This linker could be used for parsing and linking object files. It can be used t
    ```bash
    git clone https://github.com/yourusername/ELf-linker.git
    cd ELf-linker
-   pip install -r requirements.txt
    ```
 2. Install the requird packages using pip:
 
